@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 public class Ejercicio1 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
 
 		System.out.println("Introudce el precio del producto");
 		double precio = sc.nextDouble();
@@ -11,5 +11,5 @@ public class Ejercicio1 {
 
 		double precioIva = unidad * precio;
 		System.out.println(precioIva);
-    }
+	}
 }
