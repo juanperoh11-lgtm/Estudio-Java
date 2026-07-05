@@ -11,5 +11,4 @@ public class Ejercicio3 {
         }
         System.out.println("Total: " + suma);
     }
-    //Todo: Sin ejecutar el codigo la solucion es 9
 }
