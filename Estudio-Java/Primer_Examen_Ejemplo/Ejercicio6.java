@@ -9,10 +9,8 @@ public class Ejercicio6 {
         nombres.add("Carlos");
 
         int cont = 0;
-        // Todo 1. Corregido: Se cambia el "<=" por "<" para evitar salir del rango de
-        // la lista
         for (int i = 0; i < nombres.size(); i++) {
-            // Todo 2. Corregido: Se usa .equals() para comparar el contenido de los Strings
+
             if (nombres.get(i).equals("Ana")) {
                 cont++;
             }
