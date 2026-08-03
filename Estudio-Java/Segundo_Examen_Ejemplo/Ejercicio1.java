@@ -1,5 +1,3 @@
-package Segundo_Examen_Ejemplo;
-
 import java.util.Scanner;
 
 public class Ejercicio1 {

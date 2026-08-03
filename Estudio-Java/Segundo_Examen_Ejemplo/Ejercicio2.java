@@ -1,5 +1,3 @@
-package Segundo_Examen_Ejemplo;
-
 public class Ejercicio2 {
     public static void main(String[] args) {
         int suma = 0;

@@ -1,5 +1,3 @@
-package Segundo_Examen_Ejemplo;
-
 public class Ejercicio4_Producto {
     private String nombre;
     private double precio;
