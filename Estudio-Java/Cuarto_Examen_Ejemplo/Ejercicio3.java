@@ -1,6 +1,7 @@
 public class Ejercicio3 {
     public static void main(String[] args) {
-        System.out.println("A");
+        Empleado_Ej3 E1 = new Empleado_Ej3("Noelia", "Educativo", 1500);
+        E1.mostrar();
     }
 }
 
